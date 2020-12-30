@@ -15,7 +15,6 @@ def lookup():
     if len(response) == 0:
         print("Word Not Recognized!")
     else:
-=
         #Checks if the response is an array filled with suggested spellings
         if str(response[0]).count(" ") == 0:
             #Print a list of suggested words to lookup
