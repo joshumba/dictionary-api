@@ -2,7 +2,7 @@ import requests
 import json
 
 #Api key for the meriam-webster api
-api_key = ""
+api_key = "INSERT YOUR API KEY HERE"
 
 #Function that sends a request to the api and gets the short definitions of a chosen word
 def lookup():
