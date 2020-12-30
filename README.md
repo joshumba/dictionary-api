@@ -9,5 +9,5 @@ This dictionary is powered by the Meriam-Webster Dictionary API.
 4. Enter you key in the api_key variable in the dictionary.py file and you are ready to run!
 
 # FOR PYTHON 3
-pip3 install requests
-python3 dictionary.py
+- pip3 install requests
+- python3 dictionary.py
